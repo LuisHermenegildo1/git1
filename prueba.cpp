@@ -1,0 +1,16 @@
+#include "prueba.h"
+#include "ui_prueba.h"
+
+//comentario prueba
+
+prueba::prueba(QWidget *parent) :
+    QMainWindow(parent),
+    ui(new Ui::prueba)
+{
+    ui->setupUi(this);
+}
+
+prueba::~prueba()
+{
+    delete ui;
+}
