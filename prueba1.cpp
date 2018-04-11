@@ -6,3 +6,7 @@
 prueba1::prueba1()
 {
 }
+
+puras mamadas LOISSSSS...
+jhajajaja
+
